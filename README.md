@@ -1,8 +1,6 @@
 ##  Project Overview
 
-This repository contains a multi-class sentiment analysis system developed for  [NN-26 Review Sentiment Classification](https://www.kaggle.com/competitions/nn-26-review-sentiment-classification) competition as part of the Neural Networks course at the Faculty of Computer and Information Sciences, Ain Shams University.
-
-The primary objective is to categorize text reviews into five distinct sentiment levels: Excellent, Very Good, Good, Bad, and Very Bad. The project explores the trade-offs between local pattern recognition (CNNs), sequential dependency (GRUs), and global semantic understanding (Transformers and Sentence Embeddings).
+This repository presents a multi-class sentiment analysis system developed for the [NN-26 Review Sentiment Classification](https://www.kaggle.com/competitions/nn-26-review-sentiment-classification) competition as part of the Neural Networks course at the Faculty of Computer and Information Sciences, Ain Shams University. The system is designed to automatically classify textual reviews into five sentiment categories—Excellent, Very Good, Good, Bad, and Very Bad—while systematically exploring the trade-offs between different deep learning paradigms, including local pattern extraction using CNNs, sequential dependency modeling with GRUs, and global semantic representation through Transformers and Sentence Embeddings.
 ---
 
 ##  Performance Statistics
@@ -21,16 +19,16 @@ Our experimental journey followed a clear progression from basic sequential mode
 ##  Results
 
 ### Accuracy (Train vs Validation)
-![Accuracy](results/sentence embedding_acc.png)
+![Accuracy](results/sentence_embedding_acc.png)
 
 ### Loss (Train vs Validation)
-![Loss](results/sentence embedding_loss.png)
+![Loss](results/sentence_embedding_loss.png)
 
 ### Training Confusion Matrix
-![Training Confusion Matrix](results/Training Confusion Matrix.png)
+![Training Confusion Matrix](results/Training_Confusion_Matrix.png)
 
 ### Validation Confusion Matrix
-![Validation Confusion Matrix](results/Validation Confusion Matrix.png)
+![Validation Confusion Matrix](results/Validation_Confusion_Matrix.png)
 
 ---
 

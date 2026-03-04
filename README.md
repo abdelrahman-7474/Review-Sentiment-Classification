@@ -1,6 +1,7 @@
 ##  Project Overview
 
 This repository presents a multi-class sentiment analysis system developed for the [NN-26 Review Sentiment Classification](https://www.kaggle.com/competitions/nn-26-review-sentiment-classification) competition as part of the Neural Networks course at the Faculty of Computer and Information Sciences, Ain Shams University. The system is designed to automatically classify textual reviews into five sentiment categories—Excellent, Very Good, Good, Bad, and Very Bad—while systematically exploring the trade-offs between different deep learning paradigms, including local pattern extraction using CNNs, sequential dependency modeling with GRUs, and global semantic representation through Transformers and Sentence Embeddings.
+
 ---
 
 ##  Performance Statistics
